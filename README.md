@@ -13,35 +13,47 @@ To sketch the given drawing with dimensions using fusion 360 tool.
   
 ## PROCEDURE
 
-1.	Open new file and then select sketch icon.
-2.	Select the plane for sketching. 
-3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to draw the given sketch
+1.	Open a new design file in Autodesk Fusion.
+2.	Click Create Sketch and select a base reference plane (such as the XY or XZ plane)	
+3.	Use sketching features (line, circle, arc, rectangle, polygon, etc.,) to Sketch a center circle at the origin to act as a reference/construction circle.
+4.  Connect Features with Tangent Arcs / Fillets	
 
-![image](https://user-images.githubusercontent.com/113594316/198206497-ca83d495-119b-45cd-b43d-8ca3ea7e9544.png)
+<img width="542" height="566" alt="image" src="https://github.com/user-attachments/assets/92b66b35-4d5f-4f26-be2f-6f29e7d93c86" />
 
-4.	Use sketch modifying features (cut, trim, mirror, move, etc.,) to edit the sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206562-68463016-3f32-4a87-aa5b-7a17dd023b31.png)
+5. Use Trim to remove overlapping sketch segments so you have a clean, closed 2D profile
 
-5.	Use inspect feature to measure the dimensions of sketch.
+<img width="327" height="403" alt="image" src="https://github.com/user-attachments/assets/5e844d75-2086-46e1-8471-77fa00f99fe6" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206621-6348e8a3-4bbd-4a1f-96d3-db16fbf933d9.png)
 
-6.	After finishing the sketch use finish sketch option to finalize the sketch.
+6. Use Inspect (I -> Measure) to verify hole diameters, center-to-center distances, and overall thickness against your 2D drawing.
+ 
+<img width="343" height="436" alt="image" src="https://github.com/user-attachments/assets/7121aafd-819e-452e-8c5a-9a704a357a9f" />
 
-![image](https://user-images.githubusercontent.com/113594316/198206639-31c4bdb5-b13e-4106-bcf5-125c294aa03e.png)
 
-7.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
+7.	Click Finish Sketch.
 
-![image](https://user-images.githubusercontent.com/113594316/198206697-2e3ead2b-7d1e-436e-bc36-aa2e73c1e78e.png)
+Select Extrude (E), choose the closed profile regions (excluding the through-holes and central splined bore so they remain open), and extrude to the required thickness.
 
-![image](https://user-images.githubusercontent.com/113594316/198206721-8ad45462-2675-4be2-964f-621c8fc4490e.png)
+<img width="282" height="147" alt="image" src="https://github.com/user-attachments/assets/f3bc5d05-b786-4ef9-ae28-53da2a1df2a2" />
 
+<img width="462" height="582" alt="image" src="https://github.com/user-attachments/assets/e3824ba6-0a7f-412d-9c08-669e6ba7aa51" />
+
+
+
+8.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
+
+<img width="382" height="453" alt="image" src="https://github.com/user-attachments/assets/6b47a0b6-b63a-41de-b667-92fe34047966" />
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
 
 ## OUTPUT
+
+<img width="1285" height="822" alt="image" src="https://github.com/user-attachments/assets/24a50ccb-cd56-4aa8-9564-ad20bb05d69d" />
+
+<img width="893" height="627" alt="image" src="https://github.com/user-attachments/assets/5d2ae600-0cff-41ce-bdd7-7611ca3fd2cd" />
+
 
 
 ## RESULT
