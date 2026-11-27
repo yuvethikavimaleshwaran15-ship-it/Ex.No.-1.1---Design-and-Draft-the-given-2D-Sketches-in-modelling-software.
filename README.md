@@ -37,13 +37,10 @@ Select Extrude (E), choose the closed profile regions (excluding the through-hol
 
 <img width="282" height="147" alt="image" src="https://github.com/user-attachments/assets/f3bc5d05-b786-4ef9-ae28-53da2a1df2a2" />
 
-<img width="462" height="582" alt="image" src="https://github.com/user-attachments/assets/e3824ba6-0a7f-412d-9c08-669e6ba7aa51" />
-
+<img width="762" height="713" alt="image" src="https://github.com/user-attachments/assets/7f10510c-4be4-41b2-90b4-381e2acae3ee" />
 
 
 8.	After finishing the sketch switch to drawing mode to plot the sketch in ISO standard.
-
-<img width="382" height="453" alt="image" src="https://github.com/user-attachments/assets/6b47a0b6-b63a-41de-b667-92fe34047966" />
 
 ## SKETCHS
 ![image](https://user-images.githubusercontent.com/113594316/198208087-87ed794e-5f1c-4583-82e0-f29699dfc305.png)
