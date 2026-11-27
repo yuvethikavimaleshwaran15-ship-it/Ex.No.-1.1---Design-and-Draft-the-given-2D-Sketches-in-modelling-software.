@@ -57,4 +57,4 @@ Select Extrude (E), choose the closed profile regions (excluding the through-hol
 
 
 ## RESULT
-Thus the given sketch is drawn and drafted using fusion 360 tool.
+Thus, the given 2D profile was accurately sketched, constrained, extruded into a 3D solid model and drafted with standard views and dimensions using Autodesk Fusion 360 tool.
